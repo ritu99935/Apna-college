@@ -1,3 +1,3 @@
 # Apna-college
 This is my first repository
-prachirajawat
+ Author- prachirajawat
